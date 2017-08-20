@@ -186,3 +186,11 @@ Let us consider a simple example where a cake manufacturer wants to find out if 
 Logistic regression algorithms is also best suited when the need is to classify elements two categories based on the explanatory variable. For example-classify females into ‘young’ or ‘old’ group based on their age.
 
 source: https://www.dezyre.com/article/top-10-machine-learning-algorithms/202
+
+
+Turorial:
+
+http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5
+https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483
