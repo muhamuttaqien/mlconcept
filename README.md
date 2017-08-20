@@ -194,3 +194,4 @@ http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5
 https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483
+https://hackernoon.com/learning-path-for-machine-learning-engineer-a7d5dc9de4a4
